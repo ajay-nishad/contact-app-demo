@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Demo</string>
+    <string name="please_enter_number">Your contact number.</string>
+    <string name="please_enter_name">Contact name.</string>
+    <string name="add_contact">Add Contact</string>
+
+</resources>
